@@ -1,0 +1,41 @@
+
+## Comandos do Git
+
+- git status
+Informar como está o repositório.
+
+- git add .
+Insere o arquivo na área que será enviada para o git
+
+- git commit -m "Informações sobre o commit"
+Para commmitar as mudanças
+
+- git diff
+O git mostra as modificações 
+
+- git checkout
+Resetar a ultima modificação efetuada em um arquivo do git
+
+- git clone copia a URL
+Clonar todo o repositório remoto para sua maquina local
+
+- ls
+Para listar as pastas
+
+-c d
+Change Direction - mudar de pasta
+
+- cd nome da pasta
+Para entrar na pasta
+
+- cd ..
+Sair da Pasta
+
+- mk dir nome da pasta
+Criar pasta
+
+- echo > arquivo.txt
+Para criar arquivos
+
+- git push origin main
+Para subir para master
